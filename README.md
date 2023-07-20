@@ -5,4 +5,4 @@
 <!-- <img src="https://media.tenor.com/lA-2hW5dSpkAAAAd/bocchi-the-rock-kita-ikuyo.gif"/> -->
 <img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="350"/> 
 <!--  -->
-![](https://github.com/Berke_aras/Berke-aras/bocchi-the-rock-kita-ikuyo.gif)
+![](https://github.com/Berke-aras/Berke-aras/blob/main/bocchi-the-rock-kita-ikuyo.gif)
