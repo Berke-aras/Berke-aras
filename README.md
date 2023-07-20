@@ -1,4 +1,4 @@
-
+<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="100"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,unity)](https://skillicons.dev)
@@ -6,7 +6,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=berke-aras&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <div id="header" align="center">
-  <img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="100"/>
+  
 </div>
 <!--https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif
 **Berke-aras/Berke-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
