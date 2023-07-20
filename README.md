@@ -1,5 +1,4 @@
-<div class="tenor-gif-embed" data-postid="26979862" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/bocchi-bocchi-the-rock-panic-surprised-kita-gif-26979862">Bocchi Bocchi The Rock GIF</a>from <a href="https://tenor.com/search/bocchi-gifs">Bocchi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,unity)](https://skillicons.dev)
