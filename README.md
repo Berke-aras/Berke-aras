@@ -4,6 +4,10 @@
 [![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,unity)](https://skillicons.dev)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=berke-aras&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <!--
 **Berke-aras/Berke-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
