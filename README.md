@@ -3,6 +3,6 @@
 [![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,unity)](https://skillicons.dev)
 <br>
 <!-- <img src="https://media.tenor.com/lA-2hW5dSpkAAAAd/bocchi-the-rock-kita-ikuyo.gif"/> -->
-<img src="https://media.tenor.com/lA-2hW5dSpkAAAAd/bocchi-the-rock-kita-ikuyo.gif" width="350"/> 
+<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="350"/> 
 <!--  -->
-[![Watch the video](https://youtu.be/vt5fpE0bzSY)
+![](https://github.com/Berke_aras/Berke-aras/bocchi-the-rock-kita-ikuyo.gif)
