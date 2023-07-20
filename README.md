@@ -7,9 +7,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=berke-aras&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"]" width="100"/>
 </div>
-<!--
+<!--https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif
 **Berke-aras/Berke-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
