@@ -4,6 +4,6 @@
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=berke-aras&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="100"/>
+<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif"/>
 <div id="header" align="center">
 </div>
