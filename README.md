@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,unity)](https://skillicons.dev)
 <!--
 **Berke-aras/Berke-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
