@@ -3,7 +3,7 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,unity)](https://skillicons.dev)
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=berke-aras&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Berke-aras/Berke-aras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
