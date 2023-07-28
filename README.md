@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="350"/>
+![ezgif com-resize](https://github.com/Berke-aras/Berke-aras/assets/71926337/11ef1d06-94b5-419f-8bba-e230c1f297be)
 <br>
 ![bocchi-bocchi-the-rock](https://github.com/Berke-aras/Berke-aras/assets/71926337/77637f5c-f35d-4243-be2e-b33dbfe792b5)
 <br>
