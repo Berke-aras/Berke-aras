@@ -5,6 +5,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,godot,html,css,bootstrap,scss,react,js,django,unity,linux)](https://skillicons.dev)
 <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--!<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="350"/> -->
 <!--  -->
 <!--![bocchi-the-rock-kita-ikuyo](https://github.com/Berke-aras/Berke-aras/assets/71926337/173c9e69-bff4-4815-bee1-ae6e3102a128)-->
