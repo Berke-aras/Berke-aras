@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to;my-profile)](https://git.io/typing-svg)
+<br>
 ![ezgif com-resize](https://github.com/Berke-aras/Berke-aras/assets/71926337/11ef1d06-94b5-419f-8bba-e230c1f297be)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact)
