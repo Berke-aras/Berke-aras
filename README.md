@@ -9,6 +9,9 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 <img src='https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif' width="50px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--!<img src="https://media.tenor.com/HkMNfVmcnhcAAAAd/bocchi-bocchi-the-rock.gif" width="350"/> -->
 <!--  -->
 <!--![bocchi-the-rock-kita-ikuyo](https://github.com/Berke-aras/Berke-aras/assets/71926337/173c9e69-bff4-4815-bee1-ae6e3102a128)-->
