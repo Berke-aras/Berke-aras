@@ -10,6 +10,6 @@
 <br>
 <img src='https://github.com/Berke-aras/Berke-aras/blob/main/bocchi-the-rock-kita-ikuyo.gif' width="50px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=berke)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 <!--![bocchi-the-rock-kita-ikuyo](https://github.com/Berke-aras/Berke-aras/assets/71926337/173c9e69-bff4-4815-bee1-ae6e3102a128)-->
 
