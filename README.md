@@ -10,4 +10,5 @@
 <br><br>
 <img src='https://github.com/Berke-aras/Berke-aras/blob/main/bocchi-the-rock-kita-ikuyo.gif' width="50px" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <br><br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qi88qvroog8sjxbvopdqid9sp)
 
