@@ -8,7 +8,7 @@
 <br><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qi88qvroog8sjxbvopdqid9sp)
+<![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qi88qvroog8sjxbvopdqid9sp)>
 <br><br>
 ![:Berke-aras](https://count.getloli.com/get/@:Berke-aras)
 <br><br>
