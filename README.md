@@ -8,10 +8,10 @@
 <br><br>
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><br>-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qi88qvroog8sjxbvopdqid9sp)
-<br><br>
+<!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=qi88qvroog8sjxbvopdqid9sp)-->
+<br>
 <!--![:Berke-aras](https://count.getloli.com/get/@:Berke-aras)
 <br><br>-->
 
-<img src='https://github.com/Berke-aras/Berke-aras/blob/main/bocchi-the-rock-kita-ikuyo.gif' width="5px" title="BTR" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://github.com/Berke-aras/Berke-aras/blob/main/bocchi-the-rock-kita-ikuyo.gif' width="2px" title="BTR" alt="Please refresh the page if the meme doesn't show up.">
 
