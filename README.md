@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=8F04F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=8F04F7&center=false&vCenter=false&random=false&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 <br>
 <!-- ![ezgif com-resize](https://github.com/Berke-aras/Berke-aras/assets/71926337/11ef1d06-94b5-419f-8bba-e230c1f297be)-->
 <br><br>
