@@ -4,7 +4,7 @@
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact)
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,scss,js,react,gdevelop,godot,unity,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,scss,js,react,gdevelop5,godot,unity,linux)](https://skillicons.dev)
 <br><br>
 <!--![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><br>-->
