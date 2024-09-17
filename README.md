@@ -3,7 +3,7 @@
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact)
 <br><br>
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,godot,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,godot,linux)](https://skillicons.dev)
 <br><br>
 
 
