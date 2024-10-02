@@ -5,5 +5,5 @@
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,godot,linux)](https://skillicons.dev)
 <br><br>
-
+[![Discord Presence](https://lanyard.kyrie25.me/api/737288522301440010?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px))](https://discord.com/users/737288522301440010)
 
