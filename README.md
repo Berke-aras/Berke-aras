@@ -5,5 +5,4 @@
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,flask,godot,linux)](https://skillicons.dev)
 <br><br>
-<a href="https://discord.gg/"><img align="left" width="425" src="https://lanyard.kyrie25.me/api/737288522301440010?showBanner=true"></a>
 
