@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#12061f"/>
+      <stop offset="50%" stop-color="#1a0716"/>
+      <stop offset="100%" stop-color="#12061f"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8F04F7" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#FF2E63" stop-opacity=".55"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2E63" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#8F04F7" stop-opacity=".85"/>
+    </linearGradient>
+    <clipPath id="fclip"><rect width="1200" height="130" rx="18"/></clipPath>
+    <style>
+      .tw { animation: tw 3.4s ease-in-out infinite }
+      .tw2{ animation: tw 4.8s ease-in-out infinite; animation-delay:-2s }
+      @keyframes tw { 0%,100%{opacity:.2} 50%{opacity:1} }
+      @media (prefers-reduced-motion: reduce){ .tw,.tw2{animation:none} }
+    </style>
+  </defs>
+  <g clip-path="url(#fclip)">
+    <rect width="1200" height="130" fill="url(#fbg)"/>
+    <path d="M0 74 C 160 44 280 100 440 76 C 600 52 720 104 880 80 C 1000 62 1100 88 1200 72 L1200 130 L0 130 Z" fill="url(#w1)"/>
+    <path d="M0 94 C 170 66 300 118 460 96 C 620 74 760 118 920 98 C 1030 84 1120 104 1200 92 L1200 130 L0 130 Z" fill="url(#w2)"/>
+    <g fill="#FF9DB4">
+      <circle class="tw"  cx="180" cy="38" r="2.5"/>
+      <circle class="tw2" cx="520" cy="28" r="2"/>
+      <circle class="tw"  cx="880" cy="42" r="2.5"/>
+      <circle class="tw2" cx="1040" cy="26" r="2"/>
+    </g>
+    <text x="600" y="46" text-anchor="middle" fill="#f3e6ff" font-size="19" font-weight="700" letter-spacing="4"
+          font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">THANKS FOR STOPPING BY</text>
+    <rect x="1" y="1" width="1198" height="128" rx="18" fill="none" stroke="#FF2E63" stroke-opacity=".3" stroke-width="2"/>
+  </g>
+</svg>

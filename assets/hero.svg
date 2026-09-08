@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Berke Aras - developer banner">
+  <title>Berke Aras — full-stack &amp; Apple-platform developer</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07050c"/>
+      <stop offset="50%" stop-color="#100a1e"/>
+      <stop offset="100%" stop-color="#1a0716"/>
+    </linearGradient>
+
+    <radialGradient id="sun" cx="50%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#FF3355"/>
+      <stop offset="70%" stop-color="#C4102F"/>
+      <stop offset="100%" stop-color="#7A0A22"/>
+    </radialGradient>
+
+    <radialGradient id="glowR" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#FF2E63" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#FF2E63" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowP" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8F04F7" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#8F04F7" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="silh" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#1a1226"/>
+      <stop offset="55%" stop-color="#0d0814"/>
+      <stop offset="100%" stop-color="#07040c"/>
+    </linearGradient>
+
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#5a3040"/>
+      <stop offset="45%" stop-color="#2b1a26"/>
+      <stop offset="100%" stop-color="#150d18"/>
+    </linearGradient>
+
+    <linearGradient id="eyeG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE08A"/>
+      <stop offset="35%" stop-color="#FF3D5E"/>
+      <stop offset="100%" stop-color="#8A0F3A"/>
+    </linearGradient>
+
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#f0d6e2"/>
+      <stop offset="100%" stop-color="#FF2E63"/>
+    </linearGradient>
+
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2E63"/>
+      <stop offset="100%" stop-color="#8F04F7"/>
+    </linearGradient>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8F04F7" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+
+    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="2.2" cy="2.2" r="1.5" fill="#12040c" fill-opacity=".5"/>
+    </pattern>
+
+    <filter id="soft" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="softer" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <filter id="smokeBlur" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="360" rx="20"/>
+    </clipPath>
+
+    <style>
+      .tw  { animation: tw 3.6s ease-in-out infinite }
+      .tw2 { animation: tw 5.2s ease-in-out infinite; animation-delay:-1.6s }
+      .tw3 { animation: tw 4.3s ease-in-out infinite; animation-delay:-2.8s }
+      .breathe { animation: breathe 7s ease-in-out infinite; transform-origin:center }
+      .smoke1 { animation: rise 11s linear infinite }
+      .smoke2 { animation: rise 14s linear infinite; animation-delay:-5s }
+      .flick { animation: flick 1.6s steps(3,end) infinite }
+      @keyframes tw { 0%,100%{opacity:.15} 50%{opacity:1} }
+      @keyframes breathe { 0%,100%{opacity:.5} 50%{opacity:.9} }
+      @keyframes rise { 0%{opacity:0; transform:translate(0,10px)} 20%{opacity:.5} 100%{opacity:0; transform:translate(-16px,-46px)} }
+      @keyframes flick { 0%,100%{opacity:1} 50%{opacity:.45} }
+      @media (prefers-reduced-motion: reduce){
+        .tw,.tw2,.tw3,.breathe,.smoke1,.smoke2,.flick{animation:none}
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- ================= background ================= -->
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <ellipse cx="150" cy="70" rx="260" ry="180" fill="url(#glowP)" opacity=".7"/>
+    <ellipse cx="1010" cy="300" rx="300" ry="220" fill="url(#glowR)" class="breathe"/>
+
+    <!-- poster sun behind the character -->
+    <g>
+      <circle cx="905" cy="164" r="138" fill="url(#sun)" opacity=".92"/>
+      <circle cx="905" cy="164" r="138" fill="url(#dots)"/>
+      <circle cx="905" cy="164" r="138" fill="none" stroke="#FF6A85" stroke-opacity=".45" stroke-width="2"/>
+      <circle cx="905" cy="164" r="158" fill="none" stroke="#FF2E63" stroke-opacity=".22" stroke-width="1.5" class="breathe"/>
+    </g>
+
+    <!-- radiating poster rays -->
+    <g stroke="#FF2E63" stroke-opacity=".16" stroke-width="2">
+      <path d="M905 164 L905 -40"/><path d="M905 164 L1120 20"/>
+      <path d="M905 164 L1150 200"/><path d="M905 164 L1060 360"/>
+      <path d="M905 164 L700 40"/><path d="M905 164 L672 210"/>
+      <path d="M905 164 L760 360"/>
+    </g>
+
+    <!-- ================= emblem: pin + fuse + smoke ================= -->
+    <g>
+      <g filter="url(#smokeBlur)">
+        <path class="smoke1" d="M948 92 C960 74 946 62 956 46 C964 34 952 26 958 14"
+              stroke="#e8d7ef" stroke-opacity=".30" stroke-width="8" fill="none" stroke-linecap="round"/>
+        <path class="smoke2" d="M972 108 C984 92 972 80 982 66"
+              stroke="#e8d7ef" stroke-opacity=".24" stroke-width="7" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <!-- grenade pin ring -->
+      <g>
+        <circle cx="880" cy="212" r="34" fill="none" stroke="#0d0710" stroke-width="14"/>
+        <circle cx="880" cy="212" r="34" fill="none" stroke="#FFE9A8" stroke-width="6"/>
+        <circle cx="880" cy="212" r="34" fill="none" stroke="#FF2E63" stroke-width="2" stroke-opacity=".8"/>
+        <path d="M880 178 C884 150 900 132 922 122" fill="none" stroke="#0d0710" stroke-width="14" stroke-linecap="round"/>
+        <path d="M880 178 C884 150 900 132 922 122" fill="none" stroke="#FFE9A8" stroke-width="6" stroke-linecap="round"/>
+      </g>
+
+      <!-- fuse -->
+      <path d="M922 122 C946 108 954 88 950 68" fill="none" stroke="#2b1f28" stroke-width="5" stroke-linecap="round"/>
+      <path d="M922 122 C946 108 954 88 950 68" fill="none" stroke="#6b4a56" stroke-width="2" stroke-linecap="round"/>
+
+      <!-- spark -->
+      <circle cx="950" cy="68" r="16" fill="#FF2E63" filter="url(#soft)" class="tw"/>
+      <circle cx="950" cy="68" r="8"  fill="#FFB347" filter="url(#soft)"/>
+      <circle cx="950" cy="68" r="4"  fill="#FFF6E0" class="flick"/>
+      <g stroke="#FFE9A8" stroke-width="2" stroke-linecap="round" class="flick">
+        <path d="M950 46 L950 36"/><path d="M968 58 L977 52"/><path d="M932 58 L923 52"/>
+        <path d="M966 82 L974 88"/><path d="M934 82 L926 88"/>
+      </g>
+    </g>
+
+    <!-- sparks -->
+    <g fill="#FF2E63">
+      <circle class="tw"  cx="1050" cy="96"  r="3"/>
+      <circle class="tw3" cx="736"  cy="118" r="2.5"/>
+      <circle class="tw2" cx="1096" cy="212" r="2.5"/>
+      <circle class="tw"  cx="700"  cy="268" r="2"/>
+      <circle class="tw3" cx="1128" cy="60"  r="2"/>
+    </g>
+    <g fill="#c99bff">
+      <circle class="tw2" cx="640" cy="70"  r="2.5"/>
+      <circle class="tw"  cx="1150" cy="150" r="2"/>
+      <circle class="tw3" cx="668" cy="320" r="2.5"/>
+    </g>
+
+    <!-- ================= type ================= -->
+    <g font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+      <g>
+        <rect x="72" y="78" width="4" height="22" fill="#FF2E63"/>
+        <text x="88" y="96" fill="#FF2E63" font-size="16" font-weight="700" letter-spacing="6">HELLO WORLD</text>
+      </g>
+      <text x="70" y="176" fill="url(#txt)" font-size="66" font-weight="800" letter-spacing="1">BERKE ARAS</text>
+      <rect x="72" y="198" width="190" height="5" rx="2.5" fill="url(#bar)"/>
+      <text x="72" y="240" fill="#c3b2d8" font-size="19" letter-spacing="1"
+            font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace">
+        full-stack · iOS · game-dev-ish
+      </text>
+      <text x="72" y="270" fill="#7f6a94" font-size="16" letter-spacing="1"
+            font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Courier New', monospace">
+        python / swift / typescript / godot
+      </text>
+    </g>
+
+    <text transform="translate(1172,180) rotate(-90)" text-anchor="middle"
+          font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+          font-size="13" letter-spacing="6" fill="#FF2E63" opacity=".55">ANIME · CODE</text>
+
+    <rect x="1" y="1" width="1198" height="358" rx="20" fill="none" stroke="#FF2E63" stroke-opacity=".35" stroke-width="2"/>
+  </g>
+</svg>
