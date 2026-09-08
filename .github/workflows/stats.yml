@@ -1,0 +1,48 @@
+name: stats
+
+# Redraws assets/stats.svg from the GitHub API and commits it when it changes,
+# so the profile never depends on a third-party card service staying online.
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/gen_stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render stats card
+        env:
+          # Add a STATS_TOKEN secret (a PAT with `repo` scope) to also count
+          # private repositories; without it the default token sees public ones.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
+        run: python scripts/gen_stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "chore: refresh stats card"
+          git push
