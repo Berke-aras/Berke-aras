@@ -1,7 +1,7 @@
 <img src="assets/hero.svg" alt="Berke Aras" width="100%" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=E04A22&center=true&vCenter=true&random=false&width=520&lines=Welcome+to+my+profile;Python+%2F+Swift+%2F+TypeScript;Trash+in%2C+software+out" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=E04A22&center=true&vCenter=true&random=false&width=520&lines=Python+%2F+Swift+%2F+TypeScript+%2F+Godot" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -21,13 +21,11 @@ role:      full-stack & Apple-platform developer
 stack:     Python · Swift · TypeScript · Godot
 building:  scrapers, iOS apps, anime-adjacent side projects
 location:  Türkiye
-motto:     ship it first, make it pretty after
 ```
 
 - Backend & automation in **Python**, native apps in **Swift**, web in **TypeScript**
-- Occasional detours into **Godot** when a game idea won't leave me alone
-- Most of my side projects sit somewhere between *tooling* and *anime*
-- Currently open to work — feel free to reach out
+- Occasional detours into **Godot** for game dev
+- Currently open to work
 
 ---
 
