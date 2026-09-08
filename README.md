@@ -55,14 +55,6 @@ motto:     ship it first, make it pretty after
   <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berke-aras&layout=compact&hide_border=true&title_color=E04A22&text_color=D9C9A8&bg_color=17130F" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img width="460" src="https://github-readme-streak-stats.demolab.com?user=berke-aras&hide_border=true&background=17130F&stroke=E04A22&ring=C3D24A&fire=E04A22&currStreakLabel=E04A22&sideLabels=D9C9A8&currStreakNum=EFE4CC&sideNums=EFE4CC&dates=8E7C63" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="920" src="https://github-readme-activity-graph.vercel.app/graph?username=berke-aras&bg_color=17130F&color=D9C9A8&line=E04A22&point=C3D24A&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
 ---
 
 ### `❯` projects
