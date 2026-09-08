@@ -51,7 +51,6 @@ location:  Türkiye
 
 ### `❯` projects
 
-- **[portfolio](https://github.com/Berke-aras/portfolio)** — personal site with a Persona 5 inspired design
 - **[berke-chatmate-pro](https://github.com/Berke-aras/berke-chatmate-pro)** — VS Code sidebar chat for any OpenAI-compatible API
 - **[HuconAnimeOdulleri](https://github.com/Berke-aras/HuconAnimeOdulleri)** — anime awards voting site
 - **[animetierlist](https://github.com/Berke-aras/animetierlist)** — drag-and-drop anime tier list builder
@@ -60,24 +59,7 @@ location:  Türkiye
 
 ---
 
-### `❯` anime.log
-
-```txt
-> currently on       : Gachiakuta
-> comfort genre      : dark shounen, gritty art, loud panels
-> side effect        : half my repos are anime projects
-```
-
 <p align="center">
-  <img width="300" src="assets/art.jpg" alt="Gachiakuta" />
-  <br />
-  <sub><i>Gachiakuta — © Kei Urana / Kodansha</i></sub>
-</p>
-
----
-
-<p align="center">
-  <a href="https://berke-aras.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-E04A22?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=17130F" alt="portfolio" /></a>
   <a href="https://github.com/Berke-aras"><img src="https://img.shields.io/badge/github-17130F?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
