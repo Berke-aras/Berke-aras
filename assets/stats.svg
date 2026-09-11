@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="GitHub stats for Berke-aras">
   <title>GitHub stats — Berke-aras</title>
-  <desc>22 repositories, 9 followers, 20 languages. Updated 2026-09-10.</desc>
+  <desc>22 repositories, 9 followers, 20 languages. Updated 2026-09-11.</desc>
   <defs>
     <linearGradient id="sground" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#171310"/>
@@ -102,7 +102,7 @@
       <rect x="520" y="147" width="13" height="13" fill="#E04A22"/><text x="542" y="158" fill="#14100D" font-size="15" font-weight="700" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">Python</text><text x="788" y="158" fill="#6B5A45" font-size="14" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace">87.6%</text><rect x="520" y="177" width="13" height="13" fill="#2E9E8F"/><text x="542" y="188" fill="#14100D" font-size="15" font-weight="700" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">C++</text><text x="788" y="188" fill="#6B5A45" font-size="14" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace">3.2%</text><rect x="520" y="207" width="13" height="13" fill="#C3D24A"/><text x="542" y="218" fill="#14100D" font-size="15" font-weight="700" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">C</text><text x="788" y="218" fill="#6B5A45" font-size="14" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace">3.2%</text><rect x="820" y="147" width="13" height="13" fill="#6E52A6"/><text x="842" y="158" fill="#14100D" font-size="15" font-weight="700" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">HTML</text><text x="1088" y="158" fill="#6B5A45" font-size="14" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace">1.8%</text><rect x="820" y="177" width="13" height="13" fill="#C98A3A"/><text x="842" y="188" fill="#14100D" font-size="15" font-weight="700" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">Cython</text><text x="1088" y="188" fill="#6B5A45" font-size="14" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace">1.7%</text><rect x="820" y="207" width="13" height="13" fill="#8E7C63"/><text x="842" y="218" fill="#14100D" font-size="15" font-weight="700" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif">Other</text><text x="1088" y="218" fill="#6B5A45" font-size="14" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace">2.5%</text>
 
       <text x="1128" y="252" fill="#6B5A45" font-size="11" text-anchor="end" letter-spacing="1"
-            font-family="ui-monospace, Menlo, Consolas, monospace">updated 2026-09-10</text>
+            font-family="ui-monospace, Menlo, Consolas, monospace">updated 2026-09-11</text>
     </g>
 
     <g opacity=".72">
