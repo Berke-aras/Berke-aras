@@ -49,15 +49,7 @@ location:  Türkiye
 
 ---
 
-### `❯` projects
 
-- **[berke-chatmate-pro](https://github.com/Berke-aras/berke-chatmate-pro)** — VS Code sidebar chat for any OpenAI-compatible API
-- **[HuconAnimeOdulleri](https://github.com/Berke-aras/HuconAnimeOdulleri)** — anime awards voting site
-- **[animetierlist](https://github.com/Berke-aras/animetierlist)** — drag-and-drop anime tier list builder
-- **[HUCON](https://github.com/Berke-aras/HUCON)** — convention website
-- **[Desktop-waifu-samples](https://github.com/Berke-aras/Desktop-waifu-samples)** — desktop mascot / live wallpaper experiments
-
----
 
 <p align="center">
   <a href="https://github.com/Berke-aras"><img src="https://img.shields.io/badge/github-17130F?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
