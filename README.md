@@ -1,7 +1,7 @@
 <img src="assets/hero.svg" alt="Berke Aras" width="100%" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=E04A22&center=true&vCenter=true&random=false&width=520&lines=Python+%2F+Swift+%2F+TypeScript+%2F+Godot" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=E04A22&center=true&vCenter=true&random=false&width=520&lines=Swift+%2F+Python+%2F+TypeScript+%2F+React" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,13 +18,14 @@
 ```yaml
 name:      Berke Aras
 role:      full-stack & Apple-platform developer
-stack:     Python · Swift · TypeScript · Godot
-building:  scrapers, iOS apps, anime-adjacent side projects
+stack:     Swift · Python · TypeScript · React
+building:  iOS & macOS apps, browser tools, scrapers, anime-adjacent side projects
 location:  Türkiye
 ```
 
-- Backend & automation in **Python**, native apps in **Swift**, web in **TypeScript**
-- Occasional detours into **Godot** for game dev
+- Native iOS & macOS apps in **Swift / SwiftUI**, web in **TypeScript + React + Vite**
+- Backend, scrapers & automation in **Python**
+- Occasional detours into **Godot** games and Minecraft shaders
 - Currently open to work
 
 ---
@@ -37,7 +38,7 @@ location:  Türkiye
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,nodejs,react,godot,linux,git,github,vscode&perline=8" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,flask,godot,apple,git,vscode&perline=8" alt="tools" />
   </a>
 </p>
 
@@ -49,7 +50,16 @@ location:  Türkiye
 
 ---
 
+### `❯` projects
 
+- **[turkanime-arsiv](https://github.com/Berke-aras/turkanime-arsiv)** — static, serverless archive of 6100+ Turkish-subbed anime from the closed turkanime.tv
+- **[AnythingVideoDowloader](https://github.com/Berke-aras/AnythingVideoDowloader)** — in-browser video/audio downloader; HLS/DASH merging & conversion via WebAssembly
+- **[berke-chatmate-pro](https://github.com/Berke-aras/berke-chatmate-pro)** — VS Code sidebar chat for any OpenAI-compatible API
+- **[AnimeFansub-Dizi-Film-Platformu](https://github.com/Berke-aras/AnimeFansub-Dizi-Film-Platformu)** — fansub streaming platform with admin panel ([humat.fun](https://humat.fun))
+- **[HuconAnimeOdulleri](https://github.com/Berke-aras/HuconAnimeOdulleri)** — anime awards voting site
+- **[animetierlist](https://github.com/Berke-aras/animetierlist)** — drag-and-drop anime tier list builder
+
+---
 
 <p align="center">
   <a href="https://github.com/Berke-aras"><img src="https://img.shields.io/badge/github-17130F?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
